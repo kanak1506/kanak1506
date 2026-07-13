@@ -42,8 +42,8 @@ B.Tech student at **IIT Kanpur**, working across embedded systems, vehicle dynam
 </tr>
 <tr>
 <td width="50%">
-<a href="https://github.com/kanak1506/ML-Based-Vehicle-Behaviour-Estimator-">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kanak1506&repo=ML-Based-Vehicle-Behaviour-Estimator-&theme=tokyonight" width="100%"/>
+<a href="https://github.com/kanak1506/ML-Based-Vehicle-Behaviour-Estimator">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kanak1506&repo=ML-Based-Vehicle-Behaviour-Estimator&theme=tokyonight" width="100%"/>
 </a>
 <sub>ML model that predicts how a vehicle handles (body roll & steering behavior) from its design specs.</sub>
 </td>

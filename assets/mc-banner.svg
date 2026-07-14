@@ -68,7 +68,7 @@
     <text x="0" y="0" font-family="'Courier New', monospace" font-weight="700" font-size="58" fill="#F4F1DE" letter-spacing="4">KANAK POTDAR</text>
   </g>
   <g transform="translate(600,190)" text-anchor="middle">
-    <text x="3" y="3" font-family="'Courier New', monospace" font-weight="700" font-size="22" fill="#2B3A1F" letter-spacing="3">EMBEDDED SYSTEMS · VEHICLE DYNAMICS · COMPUTER VISION · MACHINE LEARNING</text>
-    <text x="0" y="0" font-family="'Courier New', monospace" font-weight="700" font-size="22" fill="#FFE9A8" letter-spacing="3">EMBEDDED SYSTEMS · VEHICLE DYNAMICS · COMPUTER VISION · MACHINE LEARNING</text>
+    <text x="3" y="3" font-family="'Courier New', monospace" font-weight="700" font-size="22" fill="#2B3A1F" letter-spacing="3">EMBEDDED SYSTEMS · VEHICLE DYNAMICS · COMPUTER VISION</text>
+    <text x="0" y="0" font-family="'Courier New', monospace" font-weight="700" font-size="22" fill="#FFE9A8" letter-spacing="3">EMBEDDED SYSTEMS · VEHICLE DYNAMICS · COMPUTER VISION</text>
   </g>
 </svg>

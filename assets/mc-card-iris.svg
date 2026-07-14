@@ -1,0 +1,26 @@
+<svg width="800" height="240" viewBox="0 0 800 240" xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges">
+  <rect x="0" y="0" width="800" height="240" fill="#9C7B4F"/>
+  <rect x="0" y="0" width="800" height="8" fill="#B5936B"/>
+  <rect x="0" y="0" width="8" height="240" fill="#B5936B"/>
+  <rect x="0" y="232" width="800" height="8" fill="#7A5D38"/>
+  <rect x="792" y="0" width="8" height="240" fill="#7A5D38"/>
+  <rect x="16" y="16" width="768" height="208" fill="#2B2B2B"/>
+  <rect x="16" y="16" width="768" height="4" fill="#1A1A1A"/>
+  <rect x="16" y="16" width="4" height="208" fill="#1A1A1A"/>
+
+  <rect x="40" y="60" width="96" height="96" fill="#8B8B8B"/>
+  <rect x="40" y="60" width="96" height="6" fill="#5A5A5A"/>
+  <rect x="40" y="60" width="6" height="96" fill="#5A5A5A"/>
+  <rect x="40" y="150" width="96" height="6" fill="#C6C6C6"/>
+  <rect x="130" y="60" width="6" height="96" fill="#C6C6C6"/>
+  <rect x="58" y="78" width="60" height="60" fill="#5DB8A0"/>
+  <rect x="58" y="78" width="60" height="14" fill="#2A6B58"/>
+  <rect x="58" y="78" width="14" height="60" fill="#2A6B58"/>
+  <rect x="94" y="102" width="24" height="36" fill="#2A6B58" opacity="0.5"/>
+
+  <text x="170" y="66" font-family="'Courier New', monospace" font-weight="700" font-size="22" letter-spacing="1" fill="#FFD84D">EE6555 IRIS DETECTION</text>
+  <text x="170" y="104" font-family="'Courier New', monospace" font-weight="700" font-size="17" fill="#C9C9C9">Iris detection and segmentation with</text>
+  <text x="170" y="130" font-family="'Courier New', monospace" font-weight="700" font-size="17" fill="#C9C9C9">complex-valued neural networks —</text>
+  <text x="170" y="156" font-family="'Courier New', monospace" font-weight="700" font-size="17" fill="#C9C9C9">EE6555 course project.</text>
+  <text x="170" y="198" font-family="'Courier New', monospace" font-weight="700" font-size="15" letter-spacing="2" fill="#6FCF6F">PYTORCH / OPENCV</text>
+</svg>

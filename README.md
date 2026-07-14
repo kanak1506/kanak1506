@@ -2,9 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/kanak1506/kanak1506/main/assets/mc-banner.svg" width="100%"/>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/kanak1506/kanak1506/main/assets/mc-hotbar.svg?v=2" width="80%"/>
-</div>
 
 </div>
 

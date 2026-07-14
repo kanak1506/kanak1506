@@ -89,6 +89,9 @@ B.Tech student at **IIT Kanpur**, working across embedded systems, vehicle dynam
 <br/><br/>
 </div>
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=kanak1506&label=Profile+Views&color=63A83C&style=flat" />
+</div>
 <img src="https://raw.githubusercontent.com/kanak1506/kanak1506/main/assets/mc-footer-night.svg" width="100%"/>
 
 

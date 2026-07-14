@@ -1,0 +1,74 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges">
+  <rect width="1200" height="300" fill="#7EC0EE"/>
+  <circle cx="1080" cy="60" r="34" fill="#FFF6A5"/>
+  <rect x="1046" y="26" width="68" height="68" fill="none"/>
+
+  <g fill="#FFFFFF" opacity="0.95">
+    <rect x="60"  y="40" width="90" height="18"/>
+    <rect x="80"  y="24" width="60" height="18"/>
+    <rect x="360" y="70" width="100" height="16"/>
+    <rect x="385" y="56" width="60" height="16"/>
+    <rect x="760" y="34" width="80" height="16"/>
+    <rect x="780" y="20" width="50" height="16"/>
+  </g>
+
+  <g fill="#4A6B3A">
+    <rect x="0"   y="150" width="220" height="40"/>
+    <rect x="30"  y="130" width="160" height="20"/>
+    <rect x="950" y="160" width="250" height="30"/>
+    <rect x="980" y="140" width="180" height="20"/>
+  </g>
+
+  <rect x="0" y="220" width="1200" height="20" fill="#63A83C"/>
+  <g fill="#4C8A2E">
+    <rect x="0"   y="220" width="20" height="20"/>
+    <rect x="60"  y="220" width="20" height="20"/>
+    <rect x="140" y="220" width="20" height="20"/>
+    <rect x="220" y="220" width="20" height="20"/>
+    <rect x="300" y="220" width="20" height="20"/>
+    <rect x="380" y="220" width="20" height="20"/>
+    <rect x="460" y="220" width="20" height="20"/>
+    <rect x="540" y="220" width="20" height="20"/>
+    <rect x="620" y="220" width="20" height="20"/>
+    <rect x="700" y="220" width="20" height="20"/>
+    <rect x="780" y="220" width="20" height="20"/>
+    <rect x="860" y="220" width="20" height="20"/>
+    <rect x="940" y="220" width="20" height="20"/>
+    <rect x="1020" y="220" width="20" height="20"/>
+    <rect x="1100" y="220" width="20" height="20"/>
+    <rect x="1180" y="220" width="20" height="20"/>
+  </g>
+
+  <rect x="0" y="240" width="1200" height="60" fill="#7B5A3A"/>
+  <g fill="#6B4C2E" opacity="0.6">
+    <rect x="10"  y="250" width="8" height="8"/>
+    <rect x="45"  y="270" width="8" height="8"/>
+    <rect x="90"  y="255" width="8" height="8"/>
+    <rect x="150" y="280" width="8" height="8"/>
+    <rect x="210" y="260" width="8" height="8"/>
+    <rect x="280" y="250" width="8" height="8"/>
+    <rect x="340" y="275" width="8" height="8"/>
+    <rect x="410" y="258" width="8" height="8"/>
+    <rect x="470" y="285" width="8" height="8"/>
+    <rect x="540" y="252" width="8" height="8"/>
+    <rect x="600" y="270" width="8" height="8"/>
+    <rect x="660" y="260" width="8" height="8"/>
+    <rect x="720" y="280" width="8" height="8"/>
+    <rect x="790" y="255" width="8" height="8"/>
+    <rect x="850" y="272" width="8" height="8"/>
+    <rect x="910" y="258" width="8" height="8"/>
+    <rect x="970" y="285" width="8" height="8"/>
+    <rect x="1030" y="250" width="8" height="8"/>
+    <rect x="1090" y="270" width="8" height="8"/>
+    <rect x="1150" y="260" width="8" height="8"/>
+  </g>
+
+  <g transform="translate(600,145)" text-anchor="middle">
+    <text x="4" y="4" font-family="'Courier New', monospace" font-weight="700" font-size="58" fill="#2B3A1F" letter-spacing="4">KANAK POTDAR</text>
+    <text x="0" y="0" font-family="'Courier New', monospace" font-weight="700" font-size="58" fill="#F4F1DE" letter-spacing="4">KANAK POTDAR</text>
+  </g>
+  <g transform="translate(600,190)" text-anchor="middle">
+    <text x="3" y="3" font-family="'Courier New', monospace" font-weight="700" font-size="22" fill="#2B3A1F" letter-spacing="3">EMBEDDED SYSTEMS · VEHICLE DYNAMICS · COMPUTER VISION</text>
+    <text x="0" y="0" font-family="'Courier New', monospace" font-weight="700" font-size="22" fill="#FFE9A8" letter-spacing="3">EMBEDDED SYSTEMS · VEHICLE DYNAMICS · COMPUTER VISION</text>
+  </g>
+</svg>

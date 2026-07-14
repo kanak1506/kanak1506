@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=160&section=header&text=Kanak%20Potdar&fontSize=44&fontAlignY=40" width="100%"/>
+<img src="https://raw.githubusercontent.com/kanak1506/kanak1506/main/assets/mc-banner.svg" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=7C7CE0&center=true&vCenter=true&width=560&lines=Embedded+Systems;Vehicle+Dynamics;Computer+Vision;Machine+Learning)](https://github.com/kanak1506)
+<div align="center">
+<img src="https://raw.githubusercontent.com/kanak1506/kanak1506/main/assets/mc-hotbar.svg" width="80%"/>
+</div>
 
 </div>
 

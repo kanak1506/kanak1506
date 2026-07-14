@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kanak1506/kanak1506/main/assets/mc-hotbar.svg?v=2" width="100%"/>
+<img src="https://raw.githubusercontent.com/kanak1506/kanak1506/main/assets/mc-banner.svg" width="100%"/>
 
 </div>
+
 
 <img src="https://raw.githubusercontent.com/kanak1506/kanak1506/main/assets/mc-header-about.svg" height="52"/>
 

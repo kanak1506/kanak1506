@@ -1,0 +1,10 @@
+<svg width="200" height="52" viewBox="0 0 200 52" xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges">
+  <rect x="0" y="0" width="200" height="52" fill="#000000"/>
+  <rect x="2" y="2" width="196" height="48" fill="#4A4A52"/>
+  <rect x="2" y="2" width="196" height="4" fill="#6E6E78"/>
+  <rect x="2" y="2" width="4" height="48" fill="#6E6E78"/>
+  <rect x="2" y="46" width="196" height="4" fill="#2E2E34"/>
+  <rect x="194" y="2" width="4" height="48" fill="#2E2E34"/>
+  <text x="101" y="34" text-anchor="middle" font-family="'Courier New', monospace" font-weight="700" font-size="19" letter-spacing="2" fill="#1A1A1E">GITHUB</text>
+  <text x="100" y="33" text-anchor="middle" font-family="'Courier New', monospace" font-weight="700" font-size="19" letter-spacing="2" fill="#E8E8F0">GITHUB</text>
+</svg>
